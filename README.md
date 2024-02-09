@@ -19,7 +19,7 @@ Practicing using GitHub by creating a sample repository. This sample repository 
 
 # Additional Documentation
 Currently there are no additional document. 
-But here is a link to learn more about python functions: 
+Link to learn more about python functions: 
 [Python Functions}(https://www.programiz.com/python-programming/function)
 
 
