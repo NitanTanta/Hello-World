@@ -19,9 +19,9 @@ _Files used for practices the basic python functions_
 <br>Name: Lab2 Questions, and Lab3 Quesetions
 
 # Additional Documentation
-Currently there are no additional document. 
+Currently there are **no** additional document. 
 Link to learn more about python functions: 
-[Python Functions}(https://www.programiz.com/python-programming/function)
+<br>[Python Functions}(https://www.programiz.com/python-programming/function)
 
 
 # Versioning
