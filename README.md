@@ -11,11 +11,12 @@ This repository is a sample ReadMe.md filed that is use to practice basic GitHub
 Practicing using GitHub by creating a sample repository. This sample repository will show the use of basic python functions
 
 # How to Run Program
-
+[![PythonCode](https://www.kdnuggets.com/wp-content/uploads/awan_7_tips_python_beginners_8.png)](https://github.com/)
 
 
 # Files Used
-
+_Files used for practices the basic python functions_
+Name: Lab2 Questions, and Lab3 Quesetions
 
 # Additional Documentation
 Currently there are no additional document. 
