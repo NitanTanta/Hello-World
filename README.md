@@ -25,4 +25,4 @@ Link to learn more about python functions:
 
 
 # Versioning
-There are currently no new version being used.
+_There are currently **no** new version being used._
