@@ -16,7 +16,7 @@ Practicing using GitHub by creating a sample repository. This sample repository 
 
 # Files Used
 _Files used for practices the basic python functions_
-Name: Lab2 Questions, and Lab3 Quesetions
+<br>Name: Lab2 Questions, and Lab3 Quesetions
 
 # Additional Documentation
 Currently there are no additional document. 
